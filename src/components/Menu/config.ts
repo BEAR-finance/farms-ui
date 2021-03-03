@@ -40,7 +40,7 @@ const config: MenuEntry[] = [
     href: '/farms',
   },
   {
-    label: 'Wild Pools (coming soon)',
+    label: 'Wild Staking',
     icon: 'PoolIcon',
     href: '/pools',
   },
@@ -54,16 +54,16 @@ const config: MenuEntry[] = [
   //   icon: 'PoolIcon',
   //   href: '/pools',
   // },
-  // {
-  //   label: 'Lottery',
-  //   icon: 'TicketIcon',
-  //   href: '/lottery',
-  // },
-  // {
-  //   label: 'NFT',
-  //   icon: 'NftIcon',
-  //   href: '/nft',
-  // },
+  {
+    label: 'Lottery',
+    icon: 'TicketIcon',
+    href: '/lottery',
+  },
+  {
+    label: 'NFT',
+    icon: 'NftIcon',
+    href: '/nft',
+  },
   {
     label: 'Info',
     icon: 'InfoIcon',
